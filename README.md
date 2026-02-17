@@ -68,3 +68,11 @@ Customer churn is a critical challenge in the telecom industry. This project aim
 - **Strategy Recommendation:**  
   Focus on **incentive programs** to convert month-to-month users into annual contracts to significantly improve retention.
 
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-sharma-1208ans)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushka.sh0812@gmail.com)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/an12ushka)
+
